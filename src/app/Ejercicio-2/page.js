@@ -1,7 +1,7 @@
 "use client"
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
-export default function NavBar() {
+export default function CardGrid() {
     return (
         <div className="container">
             <h2 className="text-center">Fruteria</h2>
